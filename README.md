@@ -1,5 +1,5 @@
 Awesome Blockchain
-##################
+==================
 Curated list of the bitcoin blockchain services:
 
 List of content:
