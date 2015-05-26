@@ -10,6 +10,7 @@ List of content:
 * [Factom](http://www.factom.org)
 * [Proof of Existence](http://proofofexistence.com)
 * [Bitproof.io](https://bitproof.io)
+
 ## Proof of existence app
 * [BlockNotary](http://www.blocknotary.com)
 
