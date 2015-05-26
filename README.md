@@ -4,7 +4,7 @@ Curated list of the bitcoin blockchain services:
 
 List of content:
 [Proof of existence](#proof-of-existence)
-[Timestamp](#timestamp
+[Timestamp](#timestamp)
 
 # Proof of existense
 * [Factom](http://www.factom.org)
