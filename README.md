@@ -21,7 +21,7 @@ List of content:
 * [BTProof](https://www.btproof.com/)
 
 # Document Signing
-* [DocuSign](https://blocksign.com)
+* [BlockSign](https://blocksign.com)
 
 # SSL Certificates
 * [Revoke SSL](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack)
