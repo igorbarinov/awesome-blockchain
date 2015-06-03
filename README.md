@@ -13,6 +13,8 @@ List of content:
 * [Proof of Existence](http://proofofexistence.com)
 * [Bitproof.io](https://bitproof.io)
 * [BlockNotary](http://www.blocknotary.com)
+* [StampD](http://stampd.io)
+* [Stampery](https://stampery.co)
 
 # Timestamp
 * [BTProof](https://www.btproof.com/)
