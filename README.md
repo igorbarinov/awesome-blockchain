@@ -15,6 +15,7 @@ List of content:
 * [BlockNotary](http://www.blocknotary.com)
 * [StampD](http://stampd.io)
 * [Stampery](https://stampery.co)
+* [LaPreuve](http://www.lapreuve.net/explication.html)
 
 # Timestamp
 * [BTProof](https://www.btproof.com/)
