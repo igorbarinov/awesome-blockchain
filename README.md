@@ -9,6 +9,7 @@ List of content:
 - [SSL Certificates](#ssl-certificates)
 
 # Proof of existence
+* [Ascribe](http://ascribe.io)
 * [Factom](http://www.factom.org)
 * [Proof of Existence](http://proofofexistence.com)
 * [Bitproof.io](https://bitproof.io)
