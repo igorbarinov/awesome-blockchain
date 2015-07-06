@@ -18,6 +18,10 @@ List of content:
 * [Stampery](https://stampery.co)
 * [LaPreuve](http://www.lapreuve.net/explication.html)
 
+# Online identity
+* [Passcard](https://passcard.info)
+* [OneName](https://onename.com)
+
 # Timestamp
 * [BTProof](https://www.btproof.com/)
 
