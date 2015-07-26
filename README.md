@@ -7,6 +7,7 @@ List of content:
 - [Timestamp](#timestamp)
 - [Document Signing](#document-signing)
 - [SSL Certificates](#ssl-certificates)
+- [Assets](#assets)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -17,6 +18,12 @@ List of content:
 * [StampD](http://stampd.io)
 * [Stampery](https://stampery.co)
 * [LaPreuve](http://www.lapreuve.net/explication.html)
+* [EternityWall](http://eternitywall.it) Messages lasting forever
+
+# Assets
+* [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
+* [Coinprism](https://www.coinprism.com) Use the Bitcoin blockchain with any kind of asset
+* [Colu.co](http://colu.co) Creating, Storing and Managing Digital Assets On Top of the Bitcoin Blockchain
 
 # Online identity
 * [Passcard](https://passcard.info)
