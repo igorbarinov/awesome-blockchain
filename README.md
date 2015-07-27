@@ -28,6 +28,7 @@ List of content:
 # Online identity
 * [Passcard](https://passcard.info)
 * [OneName](https://onename.com)
+* [ShoCard](http://www.shocard.com/)
 
 # Timestamp
 * [BTProof](https://www.btproof.com/)
