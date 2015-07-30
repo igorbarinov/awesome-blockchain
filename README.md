@@ -32,6 +32,7 @@ List of content:
 
 # Timestamp
 * [BTProof](https://www.btproof.com/)
+* [OringStamp](http://www.originstamp.org/)
 
 # Document Signing
 * [BlockSign](https://blocksign.com)
