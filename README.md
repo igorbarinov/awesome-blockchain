@@ -29,6 +29,7 @@ List of content:
 * [Passcard](https://passcard.info)
 * [OneName](https://onename.com)
 * [ShoCard](http://www.shocard.com/)
+* [BlockchainMe](http://blockchainme.com/)
 
 # Timestamp
 * [BTProof](https://www.btproof.com/)
