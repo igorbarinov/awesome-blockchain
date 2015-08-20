@@ -24,7 +24,10 @@ List of content:
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
 * [Coinprism](https://www.coinprism.com) Use the Bitcoin blockchain with any kind of asset
 * [Colu.co](http://colu.co) Creating, Storing and Managing Digital Assets On Top of the Bitcoin Blockchain
-
+* [Chronicled](http://www.chronicled.com/index.html) Collect and trade 100% authentic sneakers
+* [Everledger](http://www.everledger.io/) an online reputation system for diamonds
+* [Blockverify.io](http://blockverify.io) Blockchain Based Anti-Counterfeit Solution
+ 
 # Online identity
 * [Passcard](https://passcard.info)
 * [OneName](https://onename.com)
