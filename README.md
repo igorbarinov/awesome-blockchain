@@ -27,6 +27,7 @@ List of content:
 * [Chronicled](http://www.chronicled.com/index.html) Collect and trade 100% authentic sneakers
 * [Everledger](http://www.everledger.io/) an online reputation system for diamonds
 * [Blockverify.io](http://blockverify.io) Blockchain Based Anti-Counterfeit Solution
+* [Blockai.com/openpublish](https://github.com/blockai/openpublish) A publishing protocol for registering media as a digital asset on the Bitcoin blockchain.
  
 # Online identity
 * [Passcard](https://passcard.info)
