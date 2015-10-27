@@ -19,6 +19,8 @@ List of content:
 * [Stampery](https://stampery.co)
 * [LaPreuve](http://www.lapreuve.net/explication.html)
 * [EternityWall](http://eternitywall.it) Messages lasting forever
+* [Tierion](https://tierion.com) Tierion is an engine for collecting data 
+and recording it in the blockchain
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
