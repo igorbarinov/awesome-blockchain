@@ -21,6 +21,7 @@ List of content:
 * [EternityWall](http://eternitywall.it) Messages lasting forever
 * [Tierion](https://tierion.com) Tierion is an engine for collecting data 
 and recording it in the blockchain
+* [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
@@ -30,6 +31,7 @@ and recording it in the blockchain
 * [Everledger](http://www.everledger.io/) an online reputation system for diamonds
 * [Blockverify.io](http://blockverify.io) Blockchain Based Anti-Counterfeit Solution
 * [Blockai.com/openpublish](https://github.com/blockai/openpublish) A publishing protocol for registering media as a digital asset on the Bitcoin blockchain.
+* [Blockcypher/Assets API](http://dev.blockcypher.com/#asset-api) Assets API using OpenAssets protocol
  
 # Online identity
 * [Passcard](https://passcard.info)
