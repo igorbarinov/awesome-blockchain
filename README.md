@@ -49,3 +49,7 @@ and recording it in the blockchain
 # SSL Certificates
 * [Revoke SSL](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack)
 
+# Analytics
+* [Numisigh] (http://numisight.com/) Numisight gives you the tools you need to view 
+the forest, the trees, and all the levels of detail in between.
+
