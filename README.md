@@ -22,6 +22,7 @@ List of content:
 * [Tierion](https://tierion.com) Tierion is an engine for collecting data 
 and recording it in the blockchain
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
+* [CryptoPublicNotary](http://www.cryptopublicnotary.com/)
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
