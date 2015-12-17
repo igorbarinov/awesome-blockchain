@@ -54,3 +54,6 @@ and recording it in the blockchain
 * [Numisigh] (http://numisight.com/) Numisight gives you the tools you need to view 
 the forest, the trees, and all the levels of detail in between.
 
+# Other
+* [Tradle] (http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+
