@@ -23,6 +23,7 @@ List of content:
 and recording it in the blockchain
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
 * [CryptoPublicNotary](http://www.cryptopublicnotary.com/)
+* [Colu](https://www.colu.co/)
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
