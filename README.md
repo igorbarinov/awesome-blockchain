@@ -8,6 +8,7 @@ List of content:
 - [Document Signing](#document-signing)
 - [SSL Certificates](#ssl-certificates)
 - [Assets](#assets)
+- [Private Blockchain](#private-blockchain)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -57,4 +58,11 @@ the forest, the trees, and all the levels of detail in between.
 
 # Other
 * [Tradle] (http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+
+# Private Blockchain
+* [Multichain](http://www.multichain.com/) Open platform for building blockchains
+* [Openchain](http://openchain.org) Blockchain technology for the enterprise
+* [Eris Industries](https://erisindustries.com/) Eris is free software that allows anyone to build their own secure, low-cost, run-anywhere data infrastructure using blockchain and smart contract technology.
+* [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
+* [Applied Blockchain](http://appliedblockchain.com/) consulting company
 
