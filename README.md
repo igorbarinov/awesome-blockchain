@@ -69,7 +69,7 @@ the forest, the trees, and all the levels of detail in between.
 
 # Storage
 * [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
-* [Storj.io](http://storj.io/)
-* [Maidsafe](http://maidsafe.net/)
-* [IPFS](https://ipfs.io/)IPFS is The Permanent Web
+* [Storj.io](http://storj.io/) Decentralized Cloud Storage. Storj is based on blockchain technology and peer-to-peer protocols to provide the most secure, private, and encrypted cloud storage
+* [Maidsafe](http://maidsafe.net/) SAFE (Secure Access For Everyone) Network, a new Secure way to access a world of existing apps where the security of your data is put above all else.
+* [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
 
