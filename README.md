@@ -9,6 +9,7 @@ List of content:
 - [SSL Certificates](#ssl-certificates)
 - [Assets](#assets)
 - [Private Blockchain](#private-blockchain)
+- [Storage](#storage)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -65,4 +66,10 @@ the forest, the trees, and all the levels of detail in between.
 * [Eris Industries](https://erisindustries.com/) Eris is free software that allows anyone to build their own secure, low-cost, run-anywhere data infrastructure using blockchain and smart contract technology.
 * [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
 * [Applied Blockchain](http://appliedblockchain.com/) consulting company
+
+# Storage
+* [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
+* [Storj.io](http://storj.io/)
+* [Maidsafe](http://maidsafe.net/)
+* [IPFS](https://ipfs.io/)IPFS is The Permanent Web
 
