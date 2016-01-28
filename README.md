@@ -74,6 +74,7 @@ the forest, the trees, and all the levels of detail in between.
 * [Maidsafe](http://maidsafe.net/) SAFE (Secure Access For Everyone) Network, a new Secure way to access a world of existing apps where the security of your data is put above all else.
 * [IPFS](https://ipfs.io/) The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
 * [Lbry](http://lbry.io/) LBRY is a decentralized, censorship-resistant, open-source, peer-to-peer information marketplace and discovery protocol.
+* [Filecoin](http://filecoin.io/) Filecoin is a data storage network and electronic currency based on Bitcoin.
 
 # Authentication
 * [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
