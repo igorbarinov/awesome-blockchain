@@ -78,3 +78,4 @@ the forest, the trees, and all the levels of detail in between.
 # Authentication
 * [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
 * [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
+* 
