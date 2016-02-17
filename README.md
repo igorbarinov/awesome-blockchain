@@ -67,6 +67,7 @@ the forest, the trees, and all the levels of detail in between.
 * [Eris Industries](https://erisindustries.com/) Eris is free software that allows anyone to build their own secure, low-cost, run-anywhere data infrastructure using blockchain and smart contract technology.
 * [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
 * [Applied Blockchain](http://appliedblockchain.com/) consulting company
+* [Openblockchain](https://github.com/openblockchain) Blockchain fabric code
 
 # Storage
 * [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
