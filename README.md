@@ -80,4 +80,7 @@ the forest, the trees, and all the levels of detail in between.
 # Authentication
 * [BitID](https://github.com/bitid) BitID, the "connect with Bitcoin" open protocol
 * [bitauth](https://github.com/bitpay/bitauth) Authenticate with web services utilizing the same strategy as Bitcoin.
-* 
+
+# Social Communication
+* [GetGems](http://getgems.org/) GetGems is a free social messaging app that rewards you for your activity.
+* [Twister](http://twister.net.co/) Fully decentralized P2P microblogging platform.
