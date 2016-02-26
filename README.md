@@ -11,6 +11,8 @@ List of content:
 - [Private Blockchain](#private-blockchain)
 - [Storage](#storage)
 - [Authentication](#authentication)
+- [Social Communication](#social-communication)
+- [DNS](#dns)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -84,3 +86,6 @@ the forest, the trees, and all the levels of detail in between.
 # Social Communication
 * [GetGems](http://getgems.org/) GetGems is a free social messaging app that rewards you for your activity.
 * [Twister](http://twister.net.co/) Fully decentralized P2P microblogging platform.
+
+# DNS
+* [Blockstack](https://blockstack.org/) Decentralized DNS for Blockchain Applications
