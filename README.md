@@ -13,6 +13,7 @@ List of content:
 - [Authentication](#authentication)
 - [Social Communication](#social-communication)
 - [DNS](#dns)
+- [Marketplace](#marketplace)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -89,3 +90,6 @@ the forest, the trees, and all the levels of detail in between.
 
 # DNS
 * [Blockstack](https://blockstack.org/) Decentralized DNS for Blockchain Applications
+
+# Marketplace
+* [Rein](http://reinproject.org/) Decentralized professional services market
