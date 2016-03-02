@@ -94,3 +94,4 @@ the forest, the trees, and all the levels of detail in between.
 
 # Marketplace
 * [Rein](http://reinproject.org/) Decentralized professional services market
+* [Ribbit.me](http://ribbit.me/) Loyalty solution based on blockchain
