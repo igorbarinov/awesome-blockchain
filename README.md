@@ -30,6 +30,8 @@ and recording it in the blockchain
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
 * [CryptoPublicNotary](http://www.cryptopublicnotary.com/)
 * [Colu](https://www.colu.co/)
+* [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures 
+   the integrity of systems, networks and data at industrial scale.
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
