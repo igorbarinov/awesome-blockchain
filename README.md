@@ -103,3 +103,9 @@ the forest, the trees, and all the levels of detail in between.
 # Energy
 * [GridSingularity](http://gridsingularity.com/) Decentralized energy data exchange platform
 * [SolarCoin](http://solarcoin.org) A global rewards program for solar electricity generation
+
+# Internet of Things
+* [21](https://21.co) Micropayments for HTTP API over BitCoin payment channels
+* [IOTA](http://www.iotatoken.com) Decentralized Internet of Things token
+* [Filament](http://filament.com) Software and hardware for decentralized Intranet of Things systems
+* [Slock.it](https://slock.it) Ethereum-based platform for building Shared Things.
