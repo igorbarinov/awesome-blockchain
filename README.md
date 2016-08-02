@@ -14,6 +14,8 @@ List of content:
 - [Social Communication](#social-communication)
 - [DNS](#dns)
 - [Marketplace](#marketplace)
+- [Energy Market](#energy)
+- [Internet of Things](#iot)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
@@ -97,3 +99,14 @@ the forest, the trees, and all the levels of detail in between.
 # Marketplace
 * [Rein](http://reinproject.org/) Decentralized professional services market
 * [Ribbit.me](http://ribbit.me/) Loyalty solution based on blockchain
+
+# Energy
+* [GridSingularity](http://gridsingularity.com/) Decentralized energy data exchange platform
+* [SolarCoin](http://solarcoin.org) A global rewards program for solar electricity generation
+
+# <a name="iot"></a> Internet of Things
+* [21](https://21.co) Micropayments for HTTP API over BitCoin payment channels, and library for IoT applications
+* [IOTA](http://www.iotatoken.com) Decentralized Internet of Things token
+* [Filament](http://filament.com) Software and hardware for decentralized Intranet of Things systems
+* [Slock.it](https://slock.it) Ethereum-based platform for building Shared Things.
+* [Machinomy](http://machinomy.com) Distributed platform for IoT micropayments
