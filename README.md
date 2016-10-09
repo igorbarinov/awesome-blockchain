@@ -76,6 +76,7 @@ the forest, the trees, and all the levels of detail in between.
 * [Linux Foundation Blockchain](https://blockchain.linuxfoundation.org/) backed by IBM
 * [Applied Blockchain](http://appliedblockchain.com/) consulting company
 * [Openblockchain](https://github.com/openblockchain) Blockchain fabric code
+* [Stellar](https://www.stellar.org/) Stellar is open-source, distributed payments infrastructure. Build affordable financial services.
 
 # Storage
 * [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
