@@ -77,6 +77,7 @@ the forest, the trees, and all the levels of detail in between.
 * [Applied Blockchain](http://appliedblockchain.com/) consulting company
 * [Openblockchain](https://github.com/openblockchain) Blockchain fabric code
 * [Stellar](https://www.stellar.org/) Stellar is open-source, distributed payments infrastructure. Build affordable financial services.
+* [CryptoNote](https://cryptonote.org/) CryptoNote protocol implementation.
 
 # Storage
 * [SIA](http://sia.tech/) Enterprise-Grade Collaborative Cloud for Data Storage
