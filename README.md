@@ -3,6 +3,7 @@ Awesome Blockchain
 Curated list of the bitcoin blockchain services:
 
 List of content:
+- [Ethereum DApps] (#ethereum-dapps)
 - [Proof of existence](#proof-of-existence)
 - [Timestamp](#timestamp)
 - [Document Signing](#document-signing)
@@ -16,6 +17,10 @@ List of content:
 - [Marketplace](#marketplace)
 - [Energy Market](#energy)
 - [Internet of Things](#iot)
+
+# Ethereum dapps
+* [DApps list](https://dappslist.com/dapps/)
+* [Ethercast](http://dapps.ethercasts.com/)
 
 # Proof of existence
 * [Ascribe](http://ascribe.io)
