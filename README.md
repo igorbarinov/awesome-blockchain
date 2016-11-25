@@ -34,6 +34,8 @@ and recording it in the blockchain
 * [Colu](https://www.colu.co/)
 * [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures 
    the integrity of systems, networks and data at industrial scale.
+* [Signatura](https://signatura.co/) The world's most secure and resilient digital signature platform
+* [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/)
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
