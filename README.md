@@ -56,6 +56,7 @@ and recording it in the blockchain
 # Timestamp
 * [BTProof](https://www.btproof.com/)
 * [OringStamp](http://www.originstamp.org/)
+* [Opentimestamps](https://github.com/opentimestamps/opentimestamps-server) Scalable, Trustless, Distributed Timestamping with Bitcoin
 
 # Document Signing
 * [BlockSign](https://blocksign.com)
