@@ -23,7 +23,7 @@ List of content:
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
 * [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
 * [Blockchainproof.me](https://blockchainproof.me/) Free proof of existence of any file
-
+* [OringStamp](http://www.originstamp.org/)
 
 ## Registration wall
 * [Bitproof.io](https://bitproof.io)
@@ -64,7 +64,6 @@ List of content:
 * [BlockchainMe](http://blockchainme.com/)
 
 # Timestamp
-* [OringStamp](http://www.originstamp.org/)
 * [Opentimestamps](https://github.com/opentimestamps/opentimestamps-server) Scalable, Trustless, Distributed Timestamping with Bitcoin
 
 # Document Signing
