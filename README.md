@@ -25,12 +25,10 @@ List of content:
 * [BlockNotary](http://www.blocknotary.com)
 * [StampD](http://stampd.io)
 * [Stampery](https://stampery.co)
-* [LaPreuve](http://www.lapreuve.net/explication.html)
 * [EternityWall](http://eternitywall.it) Messages lasting forever
 * [Tierion](https://tierion.com) Tierion is an engine for collecting data 
 and recording it in the blockchain
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
-* [CryptoPublicNotary](http://www.cryptopublicnotary.com/)
 * [Colu](https://www.colu.co/)
 * [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures 
    the integrity of systems, networks and data at industrial scale.
