@@ -4,7 +4,7 @@ Curated list of the bitcoin blockchain services:
 
 List of content:
 - [Proof of existence](#proof-of-existence)
-- [Timestamp](#timestamp)
+- [Timestamp software](#timestamp-software)
 - [Document Signing](#document-signing)
 - [SSL Certificates](#ssl-certificates)
 - [Assets](#assets)
@@ -63,8 +63,9 @@ List of content:
 * [ShoCard](http://www.shocard.com/)
 * [BlockchainMe](http://blockchainme.com/)
 
-# Timestamp
+# Timestamp software
 * [Opentimestamps](https://github.com/opentimestamps/opentimestamps-server) Scalable, Trustless, Distributed Timestamping with Bitcoin
+* [21.co-bitcoin-notary-public](https://21.co/learn/bitcoin-notary-public/#next-steps)
 
 # Document Signing
 * [BlockSign](https://blocksign.com)
