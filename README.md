@@ -64,7 +64,6 @@ List of content:
 * [BlockchainMe](http://blockchainme.com/)
 
 # Timestamp
-* [BTProof](https://www.btproof.com/)
 * [OringStamp](http://www.originstamp.org/)
 * [Opentimestamps](https://github.com/opentimestamps/opentimestamps-server) Scalable, Trustless, Distributed Timestamping with Bitcoin
 
