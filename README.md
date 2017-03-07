@@ -18,22 +18,29 @@ List of content:
 - [Internet of Things](#iot)
 
 # Proof of existence
-* [Ascribe](http://ascribe.io)
+## Free
+* [EternityWall](http://eternitywall.it) Messages lasting forever
+* [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
+* [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
+
+## Registration wall
+* [Bitproof.io](https://bitproof.io)
+* [Tierion](https://tierion.com) Tierion is an engine for collecting data and recording it in the blockchain
+* [Stampery](https://stampery.co)
+
+## Pay wall
 * [Factom](http://www.factom.org)
 * [Proof of Existence](http://proofofexistence.com)
-* [Bitproof.io](https://bitproof.io)
-* [BlockNotary](http://www.blocknotary.com)
 * [StampD](http://stampd.io)
-* [Stampery](https://stampery.co)
-* [EternityWall](http://eternitywall.it) Messages lasting forever
-* [Tierion](https://tierion.com) Tierion is an engine for collecting data 
-and recording it in the blockchain
-* [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
+
+## High-level application
+ Services in this section do not allow to notarize a single file, but provide high-level application
+* [Ascribe](http://ascribe.io)
+* [BlockNotary](http://www.blocknotary.com)
 * [Colu](https://www.colu.co/)
 * [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures 
    the integrity of systems, networks and data at industrial scale.
 * [Signatura](https://signatura.co/) The world's most secure and resilient digital signature platform
-* [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/)
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
