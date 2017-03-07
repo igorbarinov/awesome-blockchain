@@ -22,6 +22,8 @@ List of content:
 * [EternityWall](http://eternitywall.it) Messages lasting forever
 * [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
 * [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
+* [Blockchainproof.me](https://blockchainproof.me/) Free proof of existence of any file
+
 
 ## Registration wall
 * [Bitproof.io](https://bitproof.io)
@@ -29,9 +31,12 @@ List of content:
 * [Stampery](https://stampery.co)
 
 ## Pay wall
+* [Everlastly](https://everlastly.com/)
 * [Factom](http://www.factom.org)
 * [Proof of Existence](http://proofofexistence.com)
 * [StampD](http://stampd.io)
+* [Woleet](https://woleet.io/)
+* [Veriphant](https://veriphant.com/)
 
 ## High-level application
  Services in this section do not allow to notarize a single file, but provide high-level application
