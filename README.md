@@ -4,7 +4,7 @@ Curated list of the bitcoin blockchain services:
 
 List of content:
 - [Proof of existence](#proof-of-existence)
-- [Timestamp](#timestamp)
+- [Timestamp software](#timestamp-software)
 - [Document Signing](#document-signing)
 - [SSL Certificates](#ssl-certificates)
 - [Assets](#assets)
@@ -18,24 +18,34 @@ List of content:
 - [Internet of Things](#iot)
 
 # Proof of existence
-* [Ascribe](http://ascribe.io)
+## Free
+* [EternityWall](http://eternitywall.it) Messages lasting forever
+* [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
+* [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/) only on private ethereum blockchain
+* [Blockchainproof.me](https://blockchainproof.me/) Free proof of existence of any file
+* [OringStamp](http://www.originstamp.org/)
+
+## Registration wall
+* [Bitproof.io](https://bitproof.io)
+* [Tierion](https://tierion.com) Tierion is an engine for collecting data and recording it in the blockchain
+* [Stampery](https://stampery.co)
+
+## Pay wall
+* [Everlastly](https://everlastly.com/)
 * [Factom](http://www.factom.org)
 * [Proof of Existence](http://proofofexistence.com)
-* [Bitproof.io](https://bitproof.io)
-* [BlockNotary](http://www.blocknotary.com)
 * [StampD](http://stampd.io)
-* [Stampery](https://stampery.co)
-* [LaPreuve](http://www.lapreuve.net/explication.html)
-* [EternityWall](http://eternitywall.it) Messages lasting forever
-* [Tierion](https://tierion.com) Tierion is an engine for collecting data 
-and recording it in the blockchain
-* [Virtual-Notary](http://virtual-notary.org/) a free and secure electronic attestation service
-* [CryptoPublicNotary](http://www.cryptopublicnotary.com/)
+* [Woleet](https://woleet.io/)
+* [Veriphant](https://veriphant.com/)
+
+## High-level application
+ Services in this section do not allow to notarize a single file, but provide high-level application
+* [Ascribe](http://ascribe.io)
+* [BlockNotary](http://www.blocknotary.com)
 * [Colu](https://www.colu.co/)
 * [Guardtime](https://guardtime.com/) A blockchain approach to cybersecurity that ensures 
    the integrity of systems, networks and data at industrial scale.
 * [Signatura](https://signatura.co/) The world's most secure and resilient digital signature platform
-* [Acronis Notary](http://www.acronis.com/en-us/business/blockchain-notary/)
 
 # Assets
 * [Coinspark](http://coinspark.org/) Upgrade your bitcoin with messaging and assets
@@ -53,10 +63,9 @@ and recording it in the blockchain
 * [ShoCard](http://www.shocard.com/)
 * [BlockchainMe](http://blockchainme.com/)
 
-# Timestamp
-* [BTProof](https://www.btproof.com/)
-* [OringStamp](http://www.originstamp.org/)
+# Timestamp software
 * [Opentimestamps](https://github.com/opentimestamps/opentimestamps-server) Scalable, Trustless, Distributed Timestamping with Bitcoin
+* [21.co-bitcoin-notary-public](https://21.co/learn/bitcoin-notary-public/#next-steps)
 
 # Document Signing
 * [BlockSign](https://blocksign.com)
