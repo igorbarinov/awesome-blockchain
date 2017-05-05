@@ -16,6 +16,7 @@ List of content:
 - [Marketplace](#marketplace)
 - [Energy Market](#energy)
 - [Internet of Things](#iot)
+- [Lightning Network](#LN)
 
 # Proof of existence
 ## Free
@@ -122,3 +123,14 @@ the forest, the trees, and all the levels of detail in between.
 * [Filament](http://filament.com) Software and hardware for decentralized Intranet of Things systems
 * [Slock.it](https://slock.it) Ethereum-based platform for building Shared Things.
 * [Machinomy](http://machinomy.com) Distributed platform for IoT micropayments
+
+# <a name="LN"></a> Lightning Network
+## Specifications
+* [Whitepaper](https://lightning.network/lightning-network-paper.pdf) Descriptions of LN principles
+* [BOLT](https://github.com/lightningnetwork/lightning-rfc/blob/master/00-introduction.md) Protocol description
+## Implementations
+* [eclair](https://github.com/ACINQ/eclair) Scala, ACINQ company
+* [lightning](https://github.com/ElementsProject/lightning) C, Implementation done by Blockstream (Bitcoin Core developers mainly)
+* [Thunder](https://github.com/blockchain/thunder) Java, Blockchain.info implementation
+* [lit](https://github.com/mit-dci/lit) Golang, The MIT Digital Currency Initiative
+* [lnd](https://github.com/lightningnetwork/lnd) Golang
