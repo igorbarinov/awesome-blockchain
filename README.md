@@ -75,12 +75,12 @@ List of content:
 * [Revoke SSL](https://github.com/ChristopherA/revocable-self-signed-tls-certificates-hack)
 
 # Analytics
-* [Numisigh] (http://numisight.com/) Numisight gives you the tools you need to view 
+* [Numisigh](http://numisight.com/) Numisight gives you the tools you need to view 
 the forest, the trees, and all the levels of detail in between.
-* [BlockSeer] (https://www.blockseer.com/) Bitcoin blockchain analytics
+* [BlockSeer](https://www.blockseer.com/) Bitcoin blockchain analytics
 
 # Other
-* [Tradle] (http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+* [Tradle](http://tradle.io/) extending the bitcoin blockchain to non-financial applications
 
 # Private Blockchain
 * [Multichain](http://www.multichain.com/) Open platform for building blockchains
