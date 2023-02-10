@@ -81,6 +81,7 @@ the forest, the trees, and all the levels of detail in between.
 
 # Other
 * [Tradle](http://tradle.io/) extending the bitcoin blockchain to non-financial applications
+* [Blockchain Developer Roadmap](https://roadmap.sh/blockchain) Complete guide to become a Blockchain Developer.
 
 # Private Blockchain
 * [Multichain](http://www.multichain.com/) Open platform for building blockchains
